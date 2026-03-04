@@ -126,4 +126,4 @@ This project is for **educational and portfolio purposes only**. It does not con
 
 ---
 
-*Analysis by: [Your Name] | Data: Mercedes-Benz Historical Stock | Tools: Python, Pandas, Matplotlib*
+*Analysis by: Yash Gupta| Data: Mercedes-Benz Historical Stock | Tools: Python, Pandas, Matplotlib*
